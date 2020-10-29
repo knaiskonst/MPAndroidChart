@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "221933012343",
+    "firebase_url": "https://heart-database.firebaseio.com",
+    "project_id": "heart-database",
+    "storage_bucket": "heart-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221933012343:android:63ee215a4cc099da678d72",
+        "android_client_info": {
+          "package_name": "com.example.mpandroidchart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221933012343-kmdirg1gth1lp9vn4oucucd0jnvrllbf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgP_Dv850Si3GD7aLu1fzIaKxIYcUCeAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221933012343-kmdirg1gth1lp9vn4oucucd0jnvrllbf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
